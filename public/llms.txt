@@ -1,0 +1,61 @@
+# להבים — Generative Engine Optimization Map
+
+> A חינוך business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-15ecdd3c.zappy5.app
+גלו את גני הילדים הפרטיים של להבים - חינוך איכותי, סביבה שמחה ומעוררת השראה לילדים. הצטרפו למשפחת להבים היום!
+
+### הגנים שלנו
+https://-15ecdd3c.zappy5.app/kindergartens
+גלו את מגוון הגנים הפרטיים של להבים - גן פעוטות, גן חובה ותוכניות חינוכיות מיוחדות. מצאו את הגן המושלם לילדיכם!
+
+### תוכניות חינוכיות
+https://-15ecdd3c.zappy5.app/programs
+גלו את התוכניות החינוכיות המיוחדות של להבים - אמנות, מוזיקה, מדע וטבע, ותוכניות העשרה נוספות. חינוך איכותי לילדיכם!
+
+### אודות
+https://-15ecdd3c.zappy5.app/about
+הכירו את רשת גני הילדים להבים - הסיפור שלנו, הערכים שלנו והצוות המקצועי שעומד מאחורי החינוך האיכותי שאנו מעניקים לילדיכם.
+
+### צור קשר
+https://-15ecdd3c.zappy5.app/contact
+צרו קשר עם רשת גני הילדים להבים - נשמח לענות על כל שאלה, לתאם ביקור בגנים שלנו ולספק מידע נוסף על השירותים שלנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-15ecdd3c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-15ecdd3c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-15ecdd3c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About להבים
+להבים is a business in the חינוך industry.
+
+## Target Audience
+הורים וילדים
+
+## Industry
+חינוך
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-15ecdd3c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-15ecdd3c.zappy5.app/robots.txt
